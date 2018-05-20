@@ -1,0 +1,19 @@
+{
+    "options": {
+        "logformat": "standard", 
+        "config": "config.json", 
+        "colour": "auto", 
+        "reactor": null, 
+        "logdir": null, 
+        "command": "start", 
+        "loglevel": "info", 
+        "cbdir": "/home/ubuntu/ecep/ecep_server/ecep_cloud/ecep_wampServer/.crossbar", 
+        "logtofile": false, 
+        "personality": "community"
+    }, 
+    "argv": [
+        "/usr/local/bin/crossbar", 
+        "start"
+    ], 
+    "pid": 26753
+}
